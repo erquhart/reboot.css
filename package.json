@@ -1,6 +1,6 @@
 {
   "name": "reboot.css",
-  "version": "v0.0.5",
+  "version": "1.0.0",
   "description": "A pure CSS port of Bootstrap's Reboot",
   "main": "dist/reboot.css",
   "files": ["dist"],
