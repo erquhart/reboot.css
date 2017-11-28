@@ -10,7 +10,7 @@ Reboot.css is licensed MIT.
 
 See [source](https://github.com/erquhart/reboot.css/blob/master/src/reboot.css) for documentation.
 
-Bootstrap docs: https://v4-alpha.getbootstrap.com/content/reboot/
+Bootstrap docs: https://v4-alpha.getbootstrap.com/content/reboot/  
 Bootstrap source: https://github.com/twbs/bootstrap/blob/v4-dev/scss/_reboot.scss
 
 ## Updates
