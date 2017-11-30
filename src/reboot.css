@@ -87,7 +87,7 @@ body {
  * Credit: https://github.com/suitcss/base
  */
 [tabindex="-1"]:focus {
-  outline: none !important;
+  outline: 0 !important;
 }
 
 /**
