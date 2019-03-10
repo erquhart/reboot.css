@@ -1,6 +1,6 @@
 {
   "name": "reboot.css",
-  "version": "1.0.4",
+  "version": "0.0.0-semantically-released",
   "description": "A pure CSS port of Bootstrap's Reboot",
   "repository": "https://github.com/erquhart/reboot.css",
   "license": "MIT",

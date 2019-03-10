@@ -10,6 +10,8 @@
 
 # Reboot.css
 
+![Test](https://img.shields.io/travis/z0al/reboot.css.svg) ![npm](https://img.shields.io/npm/v/reboot.css.svg)
+
 From [the official website][bootstrap]:
 
 > Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
