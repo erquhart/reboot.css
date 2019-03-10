@@ -1,18 +1,35 @@
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+  </a>
+</p>
+
+<h3 align="center">Reboot.css</h3>
+
+<p align="center">An unofficial pure CSS port of Bootstrap's Reboot</p>
+
 # Reboot.css
 
-Normalization of HTML elements, manually forked from Normalize.css to remove styles targeting irrelevant browsers while applying new styles. A Bootstrap Sass stylesheet ported to CSS. Unofficial.
+From [Bootstrap website][bootstrap]:
 
-Normalize is licensed MIT. https://github.com/necolas/normalize.css  
-Bootstrap is licensed MIT. https://github.com/twbs/bootstrap  
-Reboot.css is licensed MIT.
+> Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
+
+## Installation
+
+```sh
+npm install --save reboot.css
+```
 
 ## Documentation
 
-See [source](https://github.com/erquhart/reboot.css/blob/master/src/reboot.css) for documentation.
-
-Bootstrap docs: https://v4-alpha.getbootstrap.com/content/reboot/  
-Bootstrap source: https://github.com/twbs/bootstrap/blob/v4-dev/scss/_reboot.scss
+Please see the official Bootstrap [documentation][bootstrap].
 
 ## Updates
 
 This package will be updated as the Bootstrap upstream source is updated. If inconsistencies are found, please submit a PR or open an issue.
+
+[bootstrap]: https://getbootstrap.com/docs/4.0/content/reboot/
+
+## License
+
+MIT © Shawn Erquhart
