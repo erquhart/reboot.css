@@ -10,6 +10,7 @@
     "dist"
   ],
   "main": "dist/reboot.min.css",
+  "style": "dist/reboot.min.css",
   "scripts": {
     "update": "download --filename reboot.min.css -o dist https://git.io/reboot-css",
     "test": "ava"

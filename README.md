@@ -10,9 +10,12 @@
 
 # Reboot.css
 
-From [Bootstrap website][bootstrap]:
+From [the official website][bootstrap]:
 
 > Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
+
+
+[bootstrap]: https://getbootstrap.com/docs/4.0/content/reboot/
 
 ## Installation
 
@@ -22,13 +25,11 @@ npm install --save reboot.css
 
 ## Documentation
 
-Please see the official Bootstrap [documentation][bootstrap].
+Please see the official Bootstrap's [documentation][bootstrap].
 
 ## Updates
 
 This package will be updated as the Bootstrap upstream source is updated. If inconsistencies are found, please submit a PR or open an issue.
-
-[bootstrap]: https://getbootstrap.com/docs/4.0/content/reboot/
 
 ## License
 
