@@ -1,27 +1,16 @@
 {
-  "name": "reboot.css",
-  "version": "1.0.4",
-  "description": "A pure CSS port of Bootstrap's Reboot",
-  "main": "dist/reboot.css",
-  "files": ["dist"],
-  "repository": "https://github.com/erquhart/reboot.css",
-  "author": "Shawn Erquhart",
-  "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "cssnano": "^3.10.0",
-    "mkdirp": "^0.5.1",
-    "ncp": "^2.0.0",
-    "postcss-cli": "^4.1.1",
-    "rimraf": "^2.6.2"
-  },
-  "scripts": {
-    "start": "npm run package",
-    "prepublishOnly": "npm run package",
-    "package": "npm run prebuild && npm run build",
-    "build": "npm run minify && npm run copy",
-    "prebuild": "rimraf dist && mkdirp dist",
-    "copy": "ncp src/reboot.css dist/reboot.css",
-    "minify": "postcss src/reboot.css -u cssnano -o dist/reboot.min.css"
-  }
+	"name": "reboot.css",
+	"version": "1.0.4",
+	"description": "A pure CSS port of Bootstrap's Reboot",
+	"main": "src/reboot.css",
+	"files": [
+		"src"
+	],
+	"repository": "https://github.com/erquhart/reboot.css",
+	"author": "Shawn Erquhart",
+	"license": "MIT",
+	"private": false,
+	"devDependencies": {
+		"bootstrap": "^4.3.1"
+	}
 }
