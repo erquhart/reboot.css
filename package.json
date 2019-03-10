@@ -1,7 +1,6 @@
 {
   "name": "reboot.css",
   "version": "1.0.4",
-  "private": false,
   "description": "A pure CSS port of Bootstrap's Reboot",
   "repository": "https://github.com/erquhart/reboot.css",
   "license": "MIT",
@@ -12,12 +11,13 @@
   "main": "dist/reboot.min.css",
   "style": "dist/reboot.min.css",
   "scripts": {
-    "update": "download --filename reboot.min.css -o dist https://git.io/reboot-css",
-    "test": "ava"
+    "test": "ava",
+    "update": "download --filename reboot.min.css -o dist https://git.io/reboot-css"
   },
   "devDependencies": {
     "ava": "^1.3.1",
     "bootstrap": "^4.3.1",
-    "download-cli": "^1.1.1"
+    "download-cli": "^1.1.1",
+    "semantic-release": "^15.13.3"
   }
 }
