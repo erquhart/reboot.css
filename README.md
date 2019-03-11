@@ -10,8 +10,8 @@
 
 # Reboot.css
 
-![Test](https://img.shields.io/travis/z0al/reboot.css.svg) 
-![npm](https://img.shields.io/npm/v/reboot.css.svg) 
+![Test](https://img.shields.io/travis/erquhart/reboot.css.svg)
+![npm](https://img.shields.io/npm/v/reboot.css.svg)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/reboot.css.svg)
 
 From [the official website][bootstrap]:
