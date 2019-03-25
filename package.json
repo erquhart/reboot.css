@@ -9,10 +9,10 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "cssnano": "^3.10.0",
+    "cssnano": "^4.1.10",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
-    "postcss-cli": "^4.1.1",
+    "postcss-cli": "^6.1.2",
     "rimraf": "^2.6.2"
   },
   "scripts": {
